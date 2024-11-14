@@ -1,4 +1,5 @@
 #! /bin/bash
-
-Editado!
 date
+ls -l
+pwd
+tree
